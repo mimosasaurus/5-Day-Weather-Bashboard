@@ -1,0 +1,28 @@
+body {
+    padding: 0;
+    margin:0;
+    display:flex;
+    
+    
+    width:100vw;
+    height: 100vh;
+    background-color: cadetblue;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.title{
+    background-color: blanchedalmond;
+    padding: 20px;
+    border-style:inset;
+    box-shadow: 0 0 4px;
+    justify-content: center;
+    align-items: center;
+}
+.grid{
+    background-color: blanchedalmond;
+    padding: 10px;
+    width: 700px;
+    max-width: 90%;
+    box-shadow: 0 0 4px;
+    border-style: inset;
+}
